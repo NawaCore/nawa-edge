@@ -1,0 +1,103 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 5674 >>
+stream
+0.055 0.114 0.200 rg 0.00 763.89 595.28 78.00 re f
+BT /F2 22.0 Tf 1.000 1.000 1.000 rg 1 0 0 1 48.00 801.89 Tm (NAWA EDGE) Tj ET
+BT /F1 12.0 Tf 0.920 0.890 0.800 rg 1 0 0 1 196.00 801.89 Tm (Sovereign Anomaly & Audit Report) Tj ET
+BT /F1 8.5 Tf 0.780 0.800 0.850 rg 1 0 0 1 48.00 781.89 Tm (MIZAN-SARAB v1.0  -  100% local - zero data left this machine) Tj ET
+0.788 0.635 0.153 RG 2.00 w 0.00 761.39 m 595.28 761.39 l S
+BT /F2 7.5 Tf 0.450 0.450 0.450 rg 1 0 0 1 48.00 731.89 Tm (SITE) Tj ET
+BT /F1 9.5 Tf 0.100 0.100 0.100 rg 1 0 0 1 158.00 731.89 Tm (Demo Plant - Masdar City, Abu Dhabi) Tj ET
+BT /F2 7.5 Tf 0.450 0.450 0.450 rg 1 0 0 1 48.00 715.89 Tm (PERIOD) Tj ET
+BT /F1 9.5 Tf 0.100 0.100 0.100 rg 1 0 0 1 158.00 715.89 Tm (2026-07-09 00:00  ->  2026-07-10 23:59  \(2880 readings\)) Tj ET
+BT /F2 7.5 Tf 0.450 0.450 0.450 rg 1 0 0 1 48.00 699.89 Tm (GENERATED \(GULF\)) Tj ET
+BT /F1 9.5 Tf 0.100 0.100 0.100 rg 1 0 0 1 158.00 699.89 Tm (2026-07-11T16:43:31+04:00) Tj ET
+BT /F2 7.5 Tf 0.450 0.450 0.450 rg 1 0 0 1 48.00 683.89 Tm (GENERATED \(UTC\)) Tj ET
+BT /F1 9.5 Tf 0.100 0.100 0.100 rg 1 0 0 1 158.00 683.89 Tm (2026-07-11T12:43:31+00:00) Tj ET
+BT /F2 7.5 Tf 0.450 0.450 0.450 rg 1 0 0 1 48.00 667.89 Tm (ENGINE) Tj ET
+BT /F1 9.5 Tf 0.100 0.100 0.100 rg 1 0 0 1 158.00 667.89 Tm (Nawa Edge v1.0.0 - MIZAN-SARAB v1.0) Tj ET
+BT /F2 10.0 Tf 0.055 0.114 0.200 rg 1 0 0 1 48.00 643.89 Tm (SENSOR SUMMARY) Tj ET
+0.788 0.635 0.153 RG 1.00 w 48.00 639.89 m 547.28 639.89 l S
+BT /F2 8.0 Tf 0.450 0.450 0.450 rg 1 0 0 1 48.00 621.89 Tm (Sensor) Tj ET
+BT /F2 8.0 Tf 0.450 0.450 0.450 rg 1 0 0 1 298.00 621.89 Tm (Events) Tj ET
+BT /F2 8.0 Tf 0.450 0.450 0.450 rg 1 0 0 1 388.00 621.89 Tm (Peak score) Tj ET
+BT /F2 8.0 Tf 0.450 0.450 0.450 rg 1 0 0 1 478.00 621.89 Tm (Status) Tj ET
+BT /F1 9.0 Tf 0.100 0.100 0.100 rg 1 0 0 1 48.00 607.89 Tm (Desalination HP Pump - Vibration \(mm/s\)) Tj ET
+BT /F1 9.0 Tf 0.100 0.100 0.100 rg 1 0 0 1 298.00 607.89 Tm (1) Tj ET
+BT /F1 9.0 Tf 0.100 0.100 0.100 rg 1 0 0 1 388.00 607.89 Tm (3.12) Tj ET
+BT /F2 9.0 Tf 0.720 0.230 0.230 rg 1 0 0 1 478.00 607.89 Tm (ATTENTION) Tj ET
+BT /F1 9.0 Tf 0.100 0.100 0.100 rg 1 0 0 1 48.00 592.89 Tm (District Cooling HVAC - Compressor Power \(kW\)) Tj ET
+BT /F1 9.0 Tf 0.100 0.100 0.100 rg 1 0 0 1 298.00 592.89 Tm (1) Tj ET
+BT /F1 9.0 Tf 0.100 0.100 0.100 rg 1 0 0 1 388.00 592.89 Tm (3.54) Tj ET
+BT /F2 9.0 Tf 0.720 0.230 0.230 rg 1 0 0 1 478.00 592.89 Tm (ATTENTION) Tj ET
+BT /F1 9.0 Tf 0.100 0.100 0.100 rg 1 0 0 1 48.00 577.89 Tm (Solar PV Inverter - Output Power \(kW\)) Tj ET
+BT /F1 9.0 Tf 0.100 0.100 0.100 rg 1 0 0 1 298.00 577.89 Tm (1) Tj ET
+BT /F1 9.0 Tf 0.100 0.100 0.100 rg 1 0 0 1 388.00 577.89 Tm (2.47) Tj ET
+BT /F2 9.0 Tf 0.720 0.230 0.230 rg 1 0 0 1 478.00 577.89 Tm (ATTENTION) Tj ET
+BT /F2 10.0 Tf 0.055 0.114 0.200 rg 1 0 0 1 48.00 550.89 Tm (ANOMALY EVENTS) Tj ET
+0.788 0.635 0.153 RG 1.00 w 48.00 546.89 m 547.28 546.89 l S
+BT /F3 9.0 Tf 0.100 0.100 0.100 rg 1 0 0 1 48.00 528.89 Tm (2026-07-10 12:50 -> 2026-07-10 16:00) Tj ET
+BT /F1 9.0 Tf 0.100 0.100 0.100 rg 1 0 0 1 283.00 528.89 Tm (Desalination HP Pump - Vibration \(mm/s\)) Tj ET
+BT /F2 9.0 Tf 0.720 0.230 0.230 rg 1 0 0 1 518.00 528.89 Tm (score 2.04) Tj ET
+BT /F3 9.0 Tf 0.100 0.100 0.100 rg 1 0 0 1 48.00 514.89 Tm (2026-07-10 20:04 -> 2026-07-10 22:44) Tj ET
+BT /F1 9.0 Tf 0.100 0.100 0.100 rg 1 0 0 1 283.00 514.89 Tm (District Cooling HVAC - Compressor Power) Tj ET
+BT /F2 9.0 Tf 0.720 0.230 0.230 rg 1 0 0 1 518.00 514.89 Tm (score 1.14) Tj ET
+BT /F3 9.0 Tf 0.100 0.100 0.100 rg 1 0 0 1 48.00 500.89 Tm (2026-07-10 12:25 -> 2026-07-10 13:30) Tj ET
+BT /F1 9.0 Tf 0.100 0.100 0.100 rg 1 0 0 1 283.00 500.89 Tm (Solar PV Inverter - Output Power \(kW\)) Tj ET
+BT /F2 9.0 Tf 0.720 0.230 0.230 rg 1 0 0 1 518.00 500.89 Tm (score 1.52) Tj ET
+BT /F2 10.0 Tf 0.055 0.114 0.200 rg 1 0 0 1 48.00 468.89 Tm (SOVEREIGN SEAL \(Silsila chain of custody\)) Tj ET
+0.788 0.635 0.153 RG 1.00 w 48.00 464.89 m 547.28 464.89 l S
+0.965 0.955 0.930 rg 48.00 352.89 499.28 104.00 re f
+BT /F2 7.5 Tf 0.450 0.450 0.450 rg 1 0 0 1 58.00 442.89 Tm (seal_sha256) Tj ET
+BT /F3 8.0 Tf 0.100 0.100 0.100 rg 1 0 0 1 168.00 442.89 Tm (e4d9d2903a692dcddbc32933ae8c4899947e18024c41e55ce2430bbfba2ccfce) Tj ET
+BT /F2 7.5 Tf 0.450 0.450 0.450 rg 1 0 0 1 58.00 427.89 Tm (payload_sha256) Tj ET
+BT /F3 8.0 Tf 0.100 0.100 0.100 rg 1 0 0 1 168.00 427.89 Tm (5bc785607ecee0af0e0d5231a8f1d0be8babff5613086d9623d94051a135502c) Tj ET
+BT /F2 7.5 Tf 0.450 0.450 0.450 rg 1 0 0 1 58.00 412.89 Tm (prev_seal) Tj ET
+BT /F3 8.0 Tf 0.100 0.100 0.100 rg 1 0 0 1 168.00 412.89 Tm (GENESIS) Tj ET
+BT /F2 7.5 Tf 0.450 0.450 0.450 rg 1 0 0 1 58.00 397.89 Tm (host_fingerprint) Tj ET
+BT /F3 8.0 Tf 0.100 0.100 0.100 rg 1 0 0 1 168.00 397.89 Tm (4edfd2c2f9dddf56) Tj ET
+BT /F2 7.5 Tf 0.450 0.450 0.450 rg 1 0 0 1 58.00 382.89 Tm (created_utc) Tj ET
+BT /F3 8.0 Tf 0.100 0.100 0.100 rg 1 0 0 1 168.00 382.89 Tm (2026-07-11T12:43:31+00:00) Tj ET
+BT /F2 7.5 Tf 0.450 0.450 0.450 rg 1 0 0 1 58.00 367.89 Tm (created_gulf) Tj ET
+BT /F3 8.0 Tf 0.100 0.100 0.100 rg 1 0 0 1 168.00 367.89 Tm (2026-07-11T16:43:31+04:00) Tj ET
+BT /F2 7.5 Tf 0.450 0.450 0.450 rg 1 0 0 1 58.00 352.89 Tm (verify) Tj ET
+BT /F3 8.0 Tf 0.055 0.114 0.200 rg 1 0 0 1 168.00 352.89 Tm (python nawa_edge.py verify nawa_edge_seals.jsonl) Tj ET
+BT /F1 8.0 Tf 0.450 0.450 0.450 rg 1 0 0 1 48.00 58.00 Tm (This report was generated and sealed entirely on the local machine. No data left the device.) Tj ET
+BT /F1 8.0 Tf 0.450 0.450 0.450 rg 1 0 0 1 48.00 44.00 Tm (Nawa Advanced Technologies - nawacore.ai - Masdar City, Abu Dhabi - MIT open source) Tj ET
+0.788 0.635 0.153 RG 0.80 w 48.00 70.00 m 547.28 70.00 l S
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000185 00000 n 
+0000000260 00000 n 
+0000000328 00000 n 
+0000000480 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+6206
+%%EOF

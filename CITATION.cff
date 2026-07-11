@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: Nawa Edge
+type: software
+authors:
+  - family-names: Mihdawi
+    given-names: Mahmoud
+    affiliation: Nawa Advanced Technologies Limited
+year: 2026
+license: MIT
+repository-code: https://github.com/NawaCore/nawa-edge
+url: https://nawacore.ai
+message: "If you use Nawa Edge in research or public demonstrations, please cite the software."

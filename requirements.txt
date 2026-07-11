@@ -1,0 +1,5 @@
+# Nawa Edge has ZERO runtime dependencies. This file is intentionally empty.
+#
+# Pure Python 3.9+ standard library only — by design, so Nawa Edge runs on
+# air-gapped OT machines where "pip install" is a security-review nightmare.
+# Even the PDF export engine is built in.
