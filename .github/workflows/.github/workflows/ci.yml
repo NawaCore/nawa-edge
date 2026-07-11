@@ -1,0 +1,36 @@
+name: nawa-edge-ci
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.9", "3.10", "3.11", "3.12"]
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: Compile
+        run: python -m py_compile nawa_edge.py
+
+      - name: Run demo without serving
+        run: python nawa_edge.py --no-serve --out ci_out
+
+      - name: Verify seal chain and report
+        run: >
+          python nawa_edge.py verify
+          ci_out/nawa_edge_seals.jsonl
+          --report ci_out/nawa_edge_report_sealed.json
+
+      - name: Confirm zero third-party dependencies
+        run: test -z "$(grep -Ev '^[[:space:]]*(#|$)' requirements.txt)"
